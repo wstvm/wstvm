@@ -1,0 +1,161 @@
+cat,subsector,descripcion
+Agro,AGROQUIMICOS,Fabricación de plaguicidas y otros productos químicos de uso agropecuario
+Agro,DISTRIBUIDORES PRODUCTOS CONSUMO MASIVO,Comercio al por mayor de materias primas agropecuarias  animales vivos
+Ahorro,OTROS SERVICIOS FINANCIEROS,Actividades de las cooperativas financieras
+Ahorro,OTROS SERVICIOS FINANCIEROS,Actividades financieras de fondos de empleados y otras formas asociativas del sector solidario
+Ahorro,PERSONAS,Asalariados
+Ahorro,PERSONAS,Rentistas de Capital sólo para Personas Naturales
+Comercio Mayor,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por mayor de otros productos n.c.p.
+Comercio Mayor,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por mayor no especializado
+Comercio Mayor,DISTRIBUIDORES PRODUCTOS CONSUMO MASIVO,Comercio al por mayor a cambio de una retribución o por contrata
+Comercio Menor,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor de libros  periódicos  materiales y artículos de papelería y escritorio  en establecimientos especializados
+Comercio Menor,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor de otros productos nuevos en establecimientos especializados
+Comercio Menor,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor realizado a través de Internet
+Comercio Menor,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor realizado a través de casas de venta o por correo
+Comida,ARROZ,Elaboración de productos de molineria de arroz
+Comida,BEBIDAS NO ALCOHÓLICAS,Elaboración de bebidas no alcohólicas  producción de aguas minerales y de otras aguas embotelladas
+Comida,CONSERVAS, ALIÑOS Y SALSAS Elaboración de otros productos alimenticios n.c.p.
+Comida,DISTRIBUIDORES PRODUCTOS CONSUMO MASIVO,Comercio al por mayor de bebidas y tabaco
+Comida,DISTRIBUIDORES PRODUCTOS CONSUMO MASIVO,Comercio al por mayor de productos alimenticios
+Comida,SERVICIOS A PERSONAS,Expendio a la mesa de comidas preparadas
+Comida,SERVICIOS A PERSONAS,Expendio por autoservicio de comidas preparadas
+Comida,SERVICIOS A PERSONAS,Otros tipos de expendio de comidas preparadas n.c.p.
+Editoriales,IMPRENTAS Y EDICION,Edición de libros
+Editoriales,MEDIOS,Edición de Revistas
+Editoriales,MEDIOS,Edición de periódicos  revistas y otras publicaciones periódicas
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación básica primaria
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación básica secundaria
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación de instituciones universitarias o de escuelas tecnológicas
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación de universidades
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación media académica
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación media técnica y de formación laboral
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación preescolar
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Educación técnica profesional
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Establecimientos que combinan diferentes niveles de educación
+Educacion,ESTABLECIMIENTOS EDUCATIVOS,Formación académica no formal
+Educacion,SERVICIOS A PERSONAS,Enseñanza cultural
+Educacion,SERVICIOS A PERSONAS,Otros tipos de educación n.c.p.
+Educacion,SERVICIOS A EMPRESAS,Actividades de apoyo a la educación
+Empresas,SERVICIOS A EMPRESAS,Actividades combinadas de servicios administrativos de oficina
+Empresas,SERVICIOS A EMPRESAS,Actividades de administración empresarial
+Empresas,SERVICIOS A EMPRESAS,Actividades de arquitectura e ingeniería y otras actividades conexas de consultoría técnica
+Empresas,SERVICIOS A EMPRESAS,Actividades de asociaciones empresariales y de empleadores
+Empresas,SERVICIOS A EMPRESAS,Actividades de consultaría de gestión
+Empresas,SERVICIOS A EMPRESAS,Actividades jurídicas
+Empresas,SERVICIOS A EMPRESAS,Ensayos y análisis técnicos
+Empresas,SERVICIOS A EMPRESAS,Investigaciones y desarrollo experimental en el campo de las ciencias naturales y la ingeniería
+Empresas,SERVICIOS A EMPRESAS,Limpieza general interior de edificios
+Empresas,SERVICIOS A EMPRESAS,Mantenimiento y reparación especializado de maquinaria y equipo
+Empresas,SERVICIOS A EMPRESAS,Obtención y suministro de personal para empresas de Servicio Temporal
+Empresas,SERVICIOS A EMPRESAS,Otras actividades de servicio de apoyo a las empresas n.c.p.
+Empresas,SERVICIOS A EMPRESAS,Otras actividades profesionales  científicas y técnicas n.c.p.
+Empresas,SERVICIOS A EMPRESAS,Publicidad
+Farmacias,MANUFACTURA DE PRODUCTOS DE TOCADOR Y ARTICULOS DE ASEO,Fabricación de jabones y detergentes  preparados para limpiar y pulir  perfumes y preparados de tocador
+Farmacias,COMERCIO DE FARMACÉUTICOS, COSMÉTICOS Y PRODUCTOS DE TOCADOR Comercio al por mayor de productos farmacéuticos  medicinales  cosméticos y de tocador
+Farmacias,COMERCIO DE FARMACÉUTICOS, COSMÉTICOS Y PRODUCTOS DE TOCADOR Comercio al por menor de productos farmacéuticos y medicinales  cosméticos y artículos de tocador en establecimientos especializados
+Farmacias,MANUFACTURA DE PRODUCTOS FARMACÉUTICOS,Fabricación de productos farmacéuticos  sustancias químicas medicinales y productos botánicos de uso farmacéutico
+Gobierno,ADMINISTRACIÓN CENTRAL,Actividades ejecutivas de la administración publica
+Gobierno,ADMINISTRACIÓN CENTRAL,Actividades ejecutivas de la administración pública en gobierno central
+Gobierno,ADMINISTRACIÓN CENTRAL,Actividades reguladoras y facilitadoras de la actividad económica
+Gobierno,DEPARTAMENTOS,Actividades ejecutivas de la administración pública en entes departamentales
+Gobierno,MUNICIPIOS,Actividades ejecutivas de la administración pública en municipios
+Gobierno,MUNICIPIOS,Actividades legislativas de la administración pública en municipios
+Gobierno,MUNICIPIOS,Actividades reguladoras y facilitadoras de la actividad económica en municipios
+Gobierno,MUNICIPIOS,Regulación de las actividades de organismos que prestan servicios de salud  educativos  culturales y otros servicios sociales  excepto servicios de seguridad social
+Hogar,ACUEDUCTO Y ALCANTARILLADO,Captación  tratamiento y distribución de agua
+Hogar,ASEO,Recolección de desechos peligrosos
+Hogar,ASEO,Tratamiento y disposición de desechos peligrosos
+Hogar,COMERCIO DE ELECTRODOMÉSTICOS, MUEBLES Y COMPUTADORES Comercio al por mayor de aparatos y equipo de uso doméstico
+Hogar,COMERCIO DE ELECTRODOMÉSTICOS, MUEBLES Y COMPUTADORES Comercio al por mayor de computadores  equipo periférico y programas de informática
+Hogar,COMERCIO DE ELECTRODOMÉSTICOS, MUEBLES Y COMPUTADORES Comercio al por mayor de equipo  partes y piezas electrónicos y de telecomunicaciones
+Hogar,COMERCIO DE ELECTRODOMÉSTICOS, MUEBLES Y COMPUTADORES Comercio al por menor de computadores  equipos periféricos  programas de informática y equipos de telecomunicaciones en establecimientos especializados
+Hogar,COMERCIO DE ELECTRODOMÉSTICOS, MUEBLES Y COMPUTADORES Comercio al por menor de electrodomésticos y gasodomésticos de uso doméstico  muebles y equipos de iluminación
+Hogar,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por mayor de otros utensilios domésticos n.c.p.
+Hogar,ELECTRICIDAD,Generación de energía eléctrica
+Hogar,MADERA Y MUEBLES,Fabricación de muebles
+Hogar,MADERA Y MUEBLES,Fabricación de partes y piezas de madera  de carpintería y ebanistería para la construcción
+Hogar,SERVICIOS A PERSONAS,Mantenimiento y reparación de otros efectos personales y enseres domésticos
+Infraestructura,OBRAS DE INFRAESTRUCTURA,Construcción de carreteras y vías de ferrocarril
+Infraestructura,OBRAS DE INFRAESTRUCTURA,Construcción de otras obras de ingeniería civil
+Inmobiliario,CEMENTO,Fabricación de cemento  cal y yeso
+Inmobiliario,EDIFICACIONES,Construcción de edificaciones
+Inmobiliario,EDIFICACIONES,Construcción de edificios no residenciales
+Inmobiliario,EDIFICACIONES,Construcción de edificios residenciales
+Inmobiliario,FERRETERÍA, MATERIALES DE CONSTRUCCIÓN Y MAQUINARÍA Comercio al por mayor de materiales de construcción  artículos de ferretería  pinturas  productos de vidrio  equipo y materiales de fontanería y calefacción
+Inmobiliario,FERRETERÍA, MATERIALES DE CONSTRUCCIÓN Y MAQUINARÍA Comercio al por mayor de otros tipos de maquinaria y equipo n.c.p.
+Inmobiliario,FERRETERÍA, MATERIALES DE CONSTRUCCIÓN Y MAQUINARÍA Comercio al por menor de artículos de ferretería  pinturas y productos de vidrio en establecimientos especializados
+Inmobiliario,SERVICIOS A PERSONAS,Actividades inmobiliarias realizadas a cambio de una retribución o por contrata
+Inmobiliario,SERVICIOS A PERSONAS,Actividades inmobiliarias realizadas con bienes propios o arrendados
+IPS,IPS,Actividades de hospitales y clínicas  con internación
+IPS,IPS,Actividades de la práctica médica  sin internación
+IPS,IPS,Actividades de la práctica odontológica
+IPS,IPS,Otras actividades de atención de la salud humana
+Mascotas,ALIMENTOS CONCENTRADOS,Elaboración de alimentos preparados para animales
+Materiales,PLASTICO,Fabricación de artículos de plástico n.c.p.
+Materiales,PRODUCTOS CERAMICOS,Fabricación de otros productos minerales no metálicos n.c.p.
+Materiales,PRODUCTOS METALICOS,Fabricación de otros productos elaborados de metal n.c.p.
+Otros,OTRAS ACTIVIDADES MINERAS,Comercio al por mayor de metales y productos metalíferos
+Otros,OTROS MANUFACTURA,Otras industrias manufactureras n.c.p.
+Personas,SERVICIOS A PERSONAS,Actividades de agencias de noticias
+Personas,SERVICIOS A PERSONAS,Actividades de asistencia social sin alojamiento para personas mayores y discapacitadas
+Personas,SERVICIOS A PERSONAS,Actividades de asociaciones profesionales
+Personas,SERVICIOS A PERSONAS,Actividades de asociaciones religiosas
+Personas,SERVICIOS A PERSONAS,Actividades de otras asociaciones n.c.p.
+Personas,SERVICIOS A PERSONAS,Actividades de sindicatos de empleados
+Personas,SERVICIOS A PERSONAS,Gestión de instalaciones deportivas
+Personas,SERVICIOS A PERSONAS,Otras actividades de asistencia social sin alojamiento
+Personas,SERVICIOS A PERSONAS,Otras actividades de atención en instituciones con alojamiento
+Personas,SERVICIOS A PERSONAS,Otras actividades de servicios personales n.c.p.
+Personas,SERVICIOS A PERSONAS,Otras actividades recreativas y de esparcimiento n.c.p.
+Personas,SERVICIOS A PERSONAS,Pompas fúnebres y actividades relacionadas
+Prestaciones Sociales,CAJAS DE COMPENSACIÓN,Actividades de seguridad social de afiliación obligatoria
+Prestaciones Sociales,EPS Y SALUD PREPAGADA (SALUD),Actividades de seguridad social de afiliación obligatoria Entidades promotoras de salud
+Prestaciones Sociales,FONDOS DE PENSIONES,Actividades de administración de fondos
+Seguridad Privada,SERVICIOS A EMPRESAS,Actividades de seguridad privada
+Seguridad Privada,SERVICIOS A EMPRESAS,Actividades de servicios de sistemas de seguridad
+Seguros,SEGUROS,Actividades de agentes y corredores de seguros
+Seguros,SEGUROS,Seguros de vida
+Seguros,SEGUROS,Seguros generales
+Servicios financieros,BANCOS,Bancos comerciales
+Servicios financieros,COMISIONISTAS DE BOLSA,Administración de mercados financieros
+Servicios financieros,COMPANÍAS DE FINANCIAMIENTO COMERCIAL,Leasing financiero (arrendamiento financiero)
+Servicios financieros,FIDUCIARIAS,Fideicomisos  fondos y entidades financieras similares
+Servicios financieros,OTROS SERVICIOS FINANCIEROS,Actividades de compra de cartera o factoring
+Servicios financieros,OTROS SERVICIOS FINANCIEROS,Actividades de las corporaciones financieras
+Servicios financieros,OTROS SERVICIOS FINANCIEROS,Otras actividades auxiliares de las actividades de servicios financieros n.c.p.
+Servicios financieros,OTROS SERVICIOS FINANCIEROS,Otras actividades de servicio financiero  excepto las de seguros y pensiones n.c.p.
+Supermercados,SUPERMERCADOS,Comercio al por menor en establecimientos no especializados con surtido compuesto principalmente por alimentos  bebidas o tabaco
+Supermercados,SUPERMERCADOS,Comercio al por menor en establecimientos no especializados  con surtido compuesto principalmente por productos diferentes de alimentos (víveres en general)  bebidas y tabaco
+Tecnología y comunicaciones,SERVICIOS A EMPRESAS,Actividades de consultoría informática y actividades de administración de instalaciones informáticas
+Tecnología y comunicaciones,SERVICIOS A EMPRESAS,Actividades de desarrollo de sistemas informáticos (planificación  análisis  diseño  programación  pruebas)
+Tecnología y comunicaciones,SERVICIOS A EMPRESAS,Otras actividades de servicio de información n.c.p.
+Tecnología y comunicaciones,SERVICIOS A EMPRESAS,Otras actividades de tecnologías de información y actividades de servicios informáticos
+Tecnología y comunicaciones,SERVICIOS A EMPRESAS,Procesamiento de datos  alojamiento (hosting) y actividades relacionadas
+Tecnología y comunicaciones,MEDIOS,Otras actividades de telecomunicaciones
+Tecnología y comunicaciones,TELEFONIA FIJA,Servicios de telefonía fija
+Tecnología y comunicaciones,VALOR AGREGADO,Actividades de telecomunicaciones inalámbricas
+Tecnología y comunicaciones,VALOR AGREGADO,Actividades de telecomunicación satelital
+Textiles,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por mayor de prendas de vestir
+Textiles,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por mayor de productos textiles  productos confeccionados para uso doméstico
+Textiles,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor de artículos y utensilios de uso domestico
+Textiles,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor de prendas de vestir y sus accesorios (incluye artículos de piel) en establecimientos especializados
+Textiles,COMERCIO DE VARIEDADES Y VESTUARIO,Comercio al por menor de productos textiles en establecimientos especializados
+Textiles,CONFECCIONES,Confección de prendas de vestir  excepto prendas de piel
+Textiles,TEXTILES,Confección de artículos con materiales textiles  excepto prendas de vestir
+Textiles,TEXTILES,Tejeduría de productos textiles
+Transporte,AUTOMOTORES,Comercio de motocicletas y de sus partes  piezas y accesorios
+Transporte,AUTOMOTORES,Concecionarios Automobiles
+Transporte,AUTOMOTORES,Mantenimiento y reparación de vehículos automotores
+Transporte,COMBUSTIBLES Y LUBRICANTES,Comercio al por mayor de combustibles sólidos  líquidos  gaseosos y productos conexos
+Transporte,COMERCIO DE REPUESTOS,Comercio de Repuestos Autos
+Transporte,COMERCIO DE REPUESTOS,Comercio de partes  piezas (autopartes) y accesorios (lujos) para vehículos automotores
+Transporte,TRANSPORTE AEREO,Transporte aéreo internacional de carga
+Transporte,TRANSPORTE TERRESTRE,Almacenamiento y depósito
+Transporte,TRANSPORTE TERRESTRE,Otras actividades complementarias al transporte
+Transporte,TRANSPORTE TERRESTRE,Transporte de carga por carretera
+Transporte,TRANSPORTE TERRESTRE,Transporte de pasajeros
+Viajes,HOTELES; TURISMO Y AGENCIAS DE TURISMO,Actividades de las agencias de viaje
+Viajes,HOTELES; TURISMO Y AGENCIAS DE TURISMO,Actividades de operadores turísticos
+Viajes,HOTELES; TURISMO Y AGENCIAS DE TURISMO,Alojamiento en hoteles
+Viajes,HOTELES; TURISMO Y AGENCIAS DE TURISMO,Otros servicios de reserva y actividades relacionadas
+Viajes,HOTELES; TURISMO Y AGENCIAS DE TURISMO,Otros tipos de alojamiento n.c.p.
